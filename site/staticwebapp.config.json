@@ -1,0 +1,397 @@
+{
+  "routes": [
+    {
+      "route": "/5950-2",
+      "redirect": "/francais-jardin-des-verbes.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/6393-2",
+      "redirect": "/francais-transcrire.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/a-la-poursuite-de-bouba",
+      "redirect": "/francais-bouba.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/actualites",
+      "redirect": "/index.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/allemand",
+      "redirect": "/allemand.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/antoine-de-saint-exupery-dessine-moi-un-mouton",
+      "redirect": "/francais-mouton.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/autodidacte-dys",
+      "redirect": "/vous-etes.html#autodidacte",
+      "statusCode": 301
+    },
+    {
+      "route": "/complementlettreharmos",
+      "redirect": "/francais-complement-3h.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/conjugaison",
+      "redirect": "/francais-conjugaison.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/contact",
+      "redirect": "/index.html#contact",
+      "statusCode": 301
+    },
+    {
+      "route": "/cours-formation-continue",
+      "redirect": "/a-propos.html#formation",
+      "statusCode": 301
+    },
+    {
+      "route": "/dictionnaire-visuo-semantique",
+      "redirect": "/dictionnaire.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/dictionnaire-visuo-sementique-2",
+      "redirect": "/dictionnaire.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/ecriture",
+      "redirect": "/francais-ecriture.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/etude-du-temps-qui-passe",
+      "redirect": "/temps.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/fiches-dentrainement-3p-4p-5p-6p",
+      "redirect": "/maths-fiches-3p-6p.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/fiches-dentrainement-4p-5p-6p",
+      "redirect": "/maths-fiches-4p-6p.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/films-methode-diji",
+      "redirect": "/tutoriels-films-diji.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/grammaire",
+      "redirect": "/francais-grammaire.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/instituteurs-professeurs",
+      "redirect": "/vous-etes.html#enseignants",
+      "statusCode": 301
+    },
+    {
+      "route": "/introduction",
+      "redirect": "/a-propos.html#introduction",
+      "statusCode": 301
+    },
+    {
+      "route": "/lecture-comprehension",
+      "redirect": "/francais-comprehension.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/lecture-technique",
+      "redirect": "/francais-lettres.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/lecture-technique-2",
+      "redirect": "/francais-digrammes.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/marlyse-narbel",
+      "redirect": "/a-propos.html#invites",
+      "statusCode": 301
+    },
+    {
+      "route": "/maths",
+      "redirect": "/maths-bases.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/medias",
+      "redirect": "/a-propos.html#medias",
+      "statusCode": 301
+    },
+    {
+      "route": "/mentions-legales",
+      "redirect": "/mentions-legales.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/mes-collaborateurs",
+      "redirect": "/a-propos.html#collaborations",
+      "statusCode": 301
+    },
+    {
+      "route": "/mes-invites",
+      "redirect": "/a-propos.html#invites",
+      "statusCode": 301
+    },
+    {
+      "route": "/musique-et-chants",
+      "redirect": "/musique.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/orthographe",
+      "redirect": "/francais-orthographe.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/othophoniste",
+      "redirect": "/vous-etes.html#orthophoniste",
+      "statusCode": 301
+    },
+    {
+      "route": "/parents-denfants-dys",
+      "redirect": "/vous-etes.html#parents",
+      "statusCode": 301
+    },
+    {
+      "route": "/pour-en-savoir-plus",
+      "redirect": "/a-propos.html#liens",
+      "statusCode": 301
+    },
+    {
+      "route": "/pourquoi-le-rouge-gorge",
+      "redirect": "/francais-rouge-gorge.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/programme-dentrainement-maths-5p-harmos",
+      "redirect": "/maths-programme-5p.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/programme-dentrainement-maths-9-ans-france",
+      "redirect": "/maths-programme-9-ans.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/programme-entrainement-mathematiques-4p-harmos-8ans",
+      "redirect": "/maths-programme-4p.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/programme-entrainement-mathematiques-6p-harmos",
+      "redirect": "/maths-programme-6p.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-a",
+      "redirect": "/dictionnaire-a.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-b",
+      "redirect": "/dictionnaire-b.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-c",
+      "redirect": "/dictionnaire-c.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-d",
+      "redirect": "/dictionnaire-d.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-e",
+      "redirect": "/dictionnaire-e.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-f",
+      "redirect": "/dictionnaire-f.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-g",
+      "redirect": "/dictionnaire-g.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-h",
+      "redirect": "/dictionnaire-h.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-i",
+      "redirect": "/dictionnaire-i.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-j",
+      "redirect": "/dictionnaire-j.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-k",
+      "redirect": "/dictionnaire-k.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-l",
+      "redirect": "/dictionnaire-l.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-m",
+      "redirect": "/dictionnaire-m.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-n",
+      "redirect": "/dictionnaire-n.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-o",
+      "redirect": "/dictionnaire-o.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-p",
+      "redirect": "/dictionnaire-p.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-q",
+      "redirect": "/dictionnaire-q.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-r",
+      "redirect": "/dictionnaire-r.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-s",
+      "redirect": "/dictionnaire-s.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-t",
+      "redirect": "/dictionnaire-t.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-v",
+      "redirect": "/dictionnaire-v.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-y",
+      "redirect": "/dictionnaire-y.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/project/la-lettre-z",
+      "redirect": "/dictionnaire-z.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/sciences-histoire-geographie",
+      "redirect": "/sciences.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/sciences-histoire-geographie/geographie",
+      "redirect": "/sciences-geographie.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/sciences-histoire-geographie/histoire",
+      "redirect": "/sciences-histoire.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/sciences-histoire-geographie/sciences",
+      "redirect": "/sciences-naturelles.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/structure-dun-texte",
+      "redirect": "/francais-structure-texte.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/sur-le-chemin-de-la-piscine",
+      "redirect": "/francais-piscine.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/tous-vos-outils",
+      "redirect": "/index.html#ressources",
+      "statusCode": 301
+    },
+    {
+      "route": "/tutoriels",
+      "redirect": "/tutoriels-youtube.html",
+      "statusCode": 301
+    },
+    {
+      "route": "/images/*",
+      "headers": {
+        "cache-control": "public, max-age=2592000"
+      }
+    },
+    {
+      "route": "/data/*",
+      "headers": {
+        "cache-control": "no-cache"
+      }
+    },
+    {
+      "route": "/js/*",
+      "headers": {
+        "cache-control": "no-cache"
+      }
+    },
+    {
+      "route": "/css/*",
+      "headers": {
+        "cache-control": "no-cache"
+      }
+    }
+  ],
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html",
+      "statusCode": 404
+    }
+  },
+  "mimeTypes": {
+    ".json": "application/json",
+    ".webp": "image/webp"
+  },
+  "globalHeaders": {
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Robots-Tag": "noindex, nofollow"
+  }
+}
